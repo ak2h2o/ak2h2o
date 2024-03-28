@@ -2,7 +2,7 @@
 
 I’m currently learning Data Science at 
 
-https://github.com/ak2h2o/ak2h2o/blob/main/assets/images/co.JPG  
+![Image](co.jpg)  
 and
 https://github.com/ak2h2o/ak2h2o/blob/main/assets/images/hyp.JPG
 
