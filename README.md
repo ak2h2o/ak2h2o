@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning Data Science at 
+I’m currently learning **Data Science** at 
 
    ![Image](cogrammar.JPG)  
 
