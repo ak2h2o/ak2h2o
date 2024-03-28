@@ -3,8 +3,10 @@
 I’m currently learning Data Science at 
 
 ![Image](cogrammar.JPG)  
+
 and
-https://github.com/ak2h2o/ak2h2o/blob/main/assets/images/hyp.JPG
+
+![Image](hyperion.JPG)
 
 <!--
 **ak2h2o/ak2h2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
